@@ -1,5 +1,5 @@
 # ICP
-带可视化的点云配准程序
+		带可视化的点云配准程序
 		midir build
 		cd build
 		cmake ..
